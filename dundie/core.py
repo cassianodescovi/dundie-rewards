@@ -1,5 +1,6 @@
 """Core module of dundie"""
 
+
 def load(filepath):
     """Loads data from filepaht to the database"""
     try:
